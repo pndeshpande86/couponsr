@@ -1,0 +1,4 @@
+com\macdcoupon\service\model\Coupon.class
+com\macdcoupon\service\CouponserviceApplication.class
+com\macdcoupon\service\data\CouponDataRepository.class
+com\macdcoupon\service\rest\CouponAppController.class
